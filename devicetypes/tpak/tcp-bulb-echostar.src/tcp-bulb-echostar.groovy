@@ -13,7 +13,7 @@
  *
  */
 
-metadata {
+ metadata {
     definition (name: "TCP Bulb (EchoStar)", namespace: "tpak", author: "Chris Tirpak/Steve Casagrande") {
         capability "Actuator"
         capability "Configuration"
